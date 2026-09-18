@@ -23,6 +23,7 @@ To interface a push button, buzzer, and speaker with the AT89C51 microcontroller
 | 11 | Connecting wires | As required | — |
 
 ## Circuit Connections
+<img width="547" height="280" alt="image" src="https://github.com/user-attachments/assets/667ae6f6-e7f0-4d57-830b-7da0b4124de4" />
 
 | AT89C51/Device Pin | Connection |
 |---|---|
